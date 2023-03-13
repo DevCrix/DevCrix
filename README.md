@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-vieira-233b36231/)
 
 ![Cristiano GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCrix&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCrix&show_icons=true&theme=dark)](https://github.com/DevCrix/github-readme-stats)
 
 ## Tecnologias que uso 
 <div style="display: inline_block"><br/>
