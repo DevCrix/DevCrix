@@ -17,3 +17,4 @@
 </div><br/>
 
 - Aluno em Análise e Desenvolvimento de Sistemas (3° Semestre).
+- Em busca de uma oportunidade na área de Desenvolvimento de Sistemas!.
